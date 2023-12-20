@@ -58,7 +58,7 @@
 
     http://localhost/phpmyadmin
 
-# Step 8 Stop / Start XAMPP Server
+# Step 8: Stop / Start XAMPP Server
 
     $ sudo /opt/lampp/lampp start
     $ sudo /opt/lampp/lampp stop
