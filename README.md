@@ -92,3 +92,11 @@
 
     $ sudo /etc/init.d/mysql stop
     $ sudo /opt/lampp/lampp restart
+
+
+# Xampp Control Panel
+If you use a 32-bit system:
+sudo /opt/lampp/manager-linux.run
+
+If you use a 64-bit system:
+sudo /opt/lampp/manager-linux-x64.run
