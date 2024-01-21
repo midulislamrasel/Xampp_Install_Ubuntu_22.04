@@ -100,3 +100,6 @@ sudo /opt/lampp/manager-linux.run
 
 If you use a 64-bit system:
 sudo /opt/lampp/manager-linux-x64.run
+
+###Srvice apache2 stop comment
+sudo service apache2 stop
